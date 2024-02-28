@@ -1,2 +1,2 @@
 # AWS-SAA-C03-Note
-Personal Note from https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03
+https://meowing-venom-67d.notion.site/Adrian-Cantril-AWS-SAA-Course-708739bb49aa464aa49680eb515b4d6c?pvs=4
